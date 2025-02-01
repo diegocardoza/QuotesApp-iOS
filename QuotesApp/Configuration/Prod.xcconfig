@@ -1,0 +1,11 @@
+//
+//  Prod.xcconfig
+//  QuotesApp
+//
+//  Created by Diego Alfredo Cardoza Ojeda on 26/01/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+BUNDLE_DISPLAY_NAME = Quotes
+BASE_URL = https:/\/\quotes-prod-884e2-default-rtdb.firebaseio.com/
